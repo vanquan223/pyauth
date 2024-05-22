@@ -1,0 +1,69 @@
+{
+    "licence": null,
+    "publisher": {
+        "code": "C56",
+        "type": "DN",
+        "name": "111111111"
+    },
+    "identifier": "029fc985-6df9-4c96-afe0-0e03bc5fcc9c",
+    "description": null,
+    "keyword": [],
+    "title": "dataset414",
+    "issued": "2023-11-27T08:31:03.958130",
+    "temporal": "/",
+    "modified": "2023-11-27T08:31:41.282182",
+    "theme": [],
+    "accrualPeriodicity": "",
+    "spatial": "",
+    "distribution": [
+        {
+            "description": "",
+            "format": "CSV",
+            "title": "resource23",
+            "mediaType": "text/csv",
+            "modified": "2023-11-27T08:31:07.215803",
+            "downloadURL": "http://127.0.0.1:5000/dataset/029fc985-6df9-4c96-afe0-0e03bc5fcc9c/resource/dd732e65-321a-48ca-95d5-3c4b1712a527/download/addresses.csv"
+        },
+        {
+            "description": "",
+            "format": "CSV",
+            "title": "resource325",
+            "mediaType": "text/csv",
+            "modified": "2023-11-27T08:31:08.879306",
+            "downloadURL": "http://127.0.0.1:5000/dataset/029fc985-6df9-4c96-afe0-0e03bc5fcc9c/resource/32034d39-2225-44f2-b1af-8b33d1e41f5b/download/addresses.csv"
+        },
+        {
+            "accessURL": "http://127.0.0.1:5000/dataset/029fc985-6df9-4c96-afe0-0e03bc5fcc9c/resource/d0f496b5-50df-422f-96fb-5e6e33352076/download/a.json",
+            "description": "",
+            "format": "JSON",
+            "title": "resource516",
+            "mediaType": "application/json",
+            "modified": "2023-11-27T08:31:17.252778"
+        },
+        {
+            "description": "",
+            "format": "PDF",
+            "title": "resource414",
+            "mediaType": "application/pdf",
+            "modified": "2023-11-27T08:31:24.233668",
+            "downloadURL": "http://127.0.0.1:5000/dataset/029fc985-6df9-4c96-afe0-0e03bc5fcc9c/resource/1e35f87c-7c9f-46ce-809f-6c47c4d2d3a9/download/xxxxx.pdf"
+        },
+        {
+            "description": "",
+            "format": "TXT",
+            "title": "resource453",
+            "mediaType": "text/plain",
+            "modified": "2023-11-27T08:31:31.468539",
+            "downloadURL": "http://127.0.0.1:5000/dataset/029fc985-6df9-4c96-afe0-0e03bc5fcc9c/resource/892ee5c0-63da-45fd-a3e7-f8107684de30/download/vanquan.txt"
+        },
+        {
+            "description": "",
+            "format": "CSV",
+            "title": "resource114",
+            "mediaType": "text/csv",
+            "modified": "2023-11-27T08:31:38.134939",
+            "downloadURL": "http://127.0.0.1:5000/dataset/029fc985-6df9-4c96-afe0-0e03bc5fcc9c/resource/11521168-5f1b-422b-8b53-b7a45b2b7d74/download/addresses.csv"
+        }
+    ],
+    "landingPage": "http://127.0.0.1:5000"
+}

@@ -1,0 +1,39 @@
+{
+    "help": "http://127.0.0.1:5000/api/3/action/help_show?name=resource_create",
+    "success": true,
+    "result": {
+        "distribution":{
+            "description": "",
+            "format": "CSV",
+            "title": "resource23",
+            "mediaType": "text/csv",
+            "modified": "2023-11-27T08:31:07.215803",
+            "downloadURL": "addresses.csv"
+        },
+        "cache_last_updated": null,
+        "seo_description": "",
+        "seo_keywords": "",
+        "package_id": "65d12223-0c46-4a3c-aa4d-26a15e1a9721",
+        "datastore_contains_all_records_of_source_file": "False",
+        "datastore_active": false,
+        "id": "244bbc9f-ccfd-4c37-b6e8-833c61296579",
+        "size": 328,
+        "seo_title": "",
+        "state": "active",
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "mimetype_inner": null,
+        "url_type": "upload",
+        "mimetype": "text/csv",
+        "cache_url": null,
+        "name": "resource665",
+        "created": "2023-11-27T08:15:10.964671",
+        "url": "http://127.0.0.1:5000/dataset/65d12223-0c46-4a3c-aa4d-26a15e1a9721/resource/244bbc9f-ccfd-4c37-b6e8-833c61296579/download/addresses.csv",
+        "paid_data": "False",
+        "last_modified": "2023-11-27T08:15:10.947265",
+        "position": 1,
+        "revision_id": "c2e87991-56ec-4296-8bec-ff76148b2461",
+        "resource_type": null
+    }
+}
